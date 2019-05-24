@@ -27,7 +27,7 @@ class CampaignIndex extends Component {
     return <Card.Group items={items} />;
   }
 
-  render() {
+  render()  {
     return (
       <Layout>
         <div>
